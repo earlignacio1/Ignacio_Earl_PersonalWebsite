@@ -22,3 +22,17 @@ body{
 .part p{
     text-align: left;
 }
+ul{
+    margin: 0;
+    padding: 0;
+}
+.part li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+.part li a{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+}

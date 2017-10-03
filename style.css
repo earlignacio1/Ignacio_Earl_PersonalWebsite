@@ -9,4 +9,7 @@ body{
     background: rgba(0, 238, 255, 0.35);
     padding: 40px;
     text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    font-family: 'Century Gothic',sans-serif;
 }

@@ -4,3 +4,9 @@ body{
     background: url(mybg.jpg) no-repeat;
     background-size: cover; 
 }
+.part{
+    width: 450;
+    background: rgba(0, 238, 255, 0.35);
+    padding: 40px;
+    text-align: center;
+}

@@ -19,3 +19,6 @@ body{
 .part h5{
     font-size: 15px;
 }
+.part p{
+    text-align: left;
+}

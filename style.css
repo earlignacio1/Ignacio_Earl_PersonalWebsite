@@ -22,7 +22,7 @@ body{
 .part p{
     text-align: left;
 }
-ul{
+.part ul{
     margin: 0;
     padding: 0;
 }
@@ -39,4 +39,9 @@ ul{
 }
 .part li a:hover{
     color: #b9b9b9;
+}
+#header{
+    font-size: 40px;
+    color:#000000;
+    font-family: 'Century Gothic',sans-serif;
 }

@@ -41,7 +41,10 @@ body{
     color: #b9b9b9;
 }
 #header{
-    font-size: 30px;
+    font-size: 25px;
     color:#000000;
     font-family: 'Century Gothic',sans-serif;
+}
+p{
+    font-size: 15px;
 }
